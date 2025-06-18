@@ -1,0 +1,3 @@
+let fruitnames:string[]=["apple","orange","banana"];
+fruitnames.push("kiwi")
+console.log(fruitnames);
