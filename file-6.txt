@@ -1,0 +1,14 @@
+class classroom{
+    name:string;
+    rollnumber:number;
+    constructor(n:string,rn:number){
+        this.name=n;
+        this.rollnumber=rn;
+    }
+}let student1=new classroom("raju",1)
+console.log(student1.name)
+console.log(student1.rollnumber)
+let student2=new classroom("rani",2)
+console.log(student2.name)
+console.log(student2.rollnumber)
+
