@@ -1,0 +1,7 @@
+class mobile{
+brand:string="apple";
+color:string="black";
+cost:number="90000";
+}
+let mobile1=new mobile();
+console.log(mobile1)
