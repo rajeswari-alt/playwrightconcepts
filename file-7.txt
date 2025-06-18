@@ -1,0 +1,6 @@
+enum directions{
+north,
+south,
+east,
+west,
+}console.log(directions)
